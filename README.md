@@ -6,14 +6,11 @@ De gegevenscatalogus die in deze repository is gepubliceerd is niet de officiël
 
 # Consultatie toelichting
 
-De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd. Vanaf december 2016 is er via deze site een consultatie van een gegevenscatalogus van de BRO: Geotechnisch Sondeeronderzoek. Voor attendering van stakeholders is er een emailnotificatie.
+De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd. Alle consultaties van BRO gegevenscatalogi vindt u onder de [BROprogramma organization][6] op Github.  Vanaf december 2016 is er via het repository waar u zich nu bevindt een consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek. Voor attendering van stakeholders is er een emailnotificatie.
 
 Opmerkingen en vragen moeten in het Github platform middels issues worden geplaatst. 
 
-Andere consultaties van BRO gegevenscatalogi vindt u onder de [BROprogramma organization][6] op Github. 
-
 **Let op:** om issues te plaatsen, moet u een Github gebruikersaccount hebben. [Klik hier om een account te maken][4]. 
-
 
 # Consultatie: how to
 Ga naar de onderstaande link om te beginnen met de consultatie. 
