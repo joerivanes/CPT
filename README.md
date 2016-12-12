@@ -1,5 +1,5 @@
 # geotechnischsondeeronderzoek
-Repository voor open consultatie van de BRO gegevenscatalogus geotechnisch sondeeronderzoek.
+Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek.
 
 # Toelichting BRO consultatie
 De gegevenscatalogus die in deze repository is gepubliceerd is niet de officiële BRO gegevenscatalogus. De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek is te vinden op de BRO Info site. [Klik hier voor de officiele versie][5]. 
