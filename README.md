@@ -22,8 +22,7 @@ U kunt ook alle gemelde issues bekijken:
 - [Link naar alle al gemelde BRO consultatie issues][1]
 
 [1]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues
-[2]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
-[3]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/tree/master/Geotechnisch%20Sondeeronderzoek%20(CPT)
+[2]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/blob/master/Catalogus%20Geotechnisch%20Sondeeronderzoek.pdf
 [4]: https://github.com/join
 [5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/broinfo_Catalogus%20voor%20Geotechnisch%20Sondeeronderzoek_maart%202016.pdf
 [6]: https://github.com/BROprogramma
