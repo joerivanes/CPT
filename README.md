@@ -18,7 +18,7 @@ Andere consultaties van BRO gegevenscatalogi vindt u onder de [BROprogramma orga
 # Consultatie: how to
 Ga naar de onderstaande link om te beginnen met de consultatie. 
 
-- [Review Geotechnisch Sondeeronderzoek][2]
+[Review Geotechnisch Sondeeronderzoek][2]
 
 1. Download het PDF document. **Tip:** Klik op het PDF document en klik dan op Download. U kunt dan het document bekijken in uw eigen PDF reader. Dat is handiger dan de Github viewer.
 2. Review het document.
