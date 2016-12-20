@@ -2,7 +2,7 @@
 Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek.
 
 # Toelichting BRO consultatie
-De gegevenscatalogus die in deze repository is gepubliceerd is niet de officiële BRO gegevenscatalogus. De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek is te vinden op de BRO Info site. [Klik hier voor de officiele versie][5]. 
+De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek is te vinden op de BRO Info site. [Klik hier om de catalogus te downloaden][5]. 
 
 # Consultatie toelichting
 
@@ -17,7 +17,7 @@ Ga naar de onderstaande link om te beginnen met de consultatie.
 
 [Review Geotechnisch Sondeeronderzoek][2]
 
-1. Download het PDF document. **Tip:** Klik op het PDF document en klik dan op Download. U kunt dan het document bekijken in uw eigen PDF reader. Dat is handiger dan de Github viewer.
+1. Download de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek van de BRO Info website. [Klik hier om de catalogus te downloaden][5].
 2. Review het document.
 3. Om een nieuw issue aan te maken: 
   1. Controleer eerst of het issue al gemeld is: [bestaande issues Geotechnisch Sondeeronderzoek][1]
@@ -27,7 +27,6 @@ Ga naar de onderstaande link om te beginnen met de consultatie.
   1. Klik op **Submit new issue** om het issue op te slaan. 
   
 [1]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues
-[2]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/blob/master/Catalogus%20Geotechnisch%20Sondeeronderzoek.pdf
 [4]: https://github.com/join
 [5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/broinfo_Catalogus%20voor%20Geotechnisch%20Sondeeronderzoek_maart%202016.pdf
 [6]: https://github.com/BROprogramma
