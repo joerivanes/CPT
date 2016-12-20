@@ -2,7 +2,7 @@
 Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek.
 
 # Toelichting BRO consultatie
-De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek is te vinden op de BRO Info site. [Klik hier om de catalogus te downloaden][5]. 
+De BRO gegevenscatalogus Geotechnisch Sondeeronderzoek is te vinden op de BROinfo site. [Klik hier om de catalogus te downloaden][5]. 
 
 # Consultatie toelichting
 
