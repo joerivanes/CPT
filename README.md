@@ -32,7 +32,7 @@ Volg de onderstaande stappen om de gegevenscatalogus te reviewen:
   1. Controleer eerst of het issue al gemeld is: [bestaande issues Geotechnisch Sondeeronderzoek][1]
   1. Klik op **New Issue** (de groene knop rechtsboven) om een nieuw issue aan te maken.
   1. Geef het issue een titel die aangeeft wat er mis is.
-  1. Geef een beschrijving van het issue met liefst een suggestie voor een oplossing.
+  1. Geef een beschrijving van het issue volgens het hierboven beschreven stramien.
   1. Klik op **Submit new issue** om het issue op te slaan. 
   
 [1]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues
