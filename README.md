@@ -37,6 +37,6 @@ Volg de onderstaande stappen om de gegevenscatalogus te reviewen:
   
 [1]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues
 [4]: https://github.com/join
-[5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/broinfo_Catalogus%20voor%20Geotechnisch%20Sondeeronderzoek_maart%202016.pdf
+[5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/BROinfo_Catalogus-Geotechnisch-sondeeronderzoek_20160323.pdf
 [6]: https://github.com/BROprogramma/grondwatermonitoringput
 [7]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues/1
