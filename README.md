@@ -6,9 +6,11 @@ Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sonde
 De Basisregistratie Ondergrond is in ontwikkeling. Via deze site kan er actief meegedacht worden en op de documentatie worden gereageerd.   Vanaf december 2016 is er via deze site een consultatie van twee gegevenscatalogi van de BRO: Geotechnisch Sondeeronderzoek en Grondwatermonitoringput. Voor attendering van stakeholders is er een emailnotificatie.
 
 De gegevenscatalogus BRO Geotechnisch Sondeeronderzoek is benaderbaar via: 
-[Geotechnisch Sondeeronderzoek][5]. 
+- [BRO gegevenscatalogus Geotechnisch Sondeeronderzoek][5]
 
-Voor de consultatie van de gegevenscatalogus BRO Grondwatermonitoringput is er een [aparte pagina][6]. 
+Voor de consultatie van de overige BRO gegevenscatalog zijn er aparte pagina's: 
+- [Consultatie BRO Grondwatermonitoringput][6]
+- [Consultatie BRO Booronderzoek][2]
 
 Opmerkingen en vragen moeten in het Github platform middels issues worden geplaatst. 
 
@@ -36,6 +38,7 @@ Volg de onderstaande stappen om de gegevenscatalogus te reviewen:
   1. Klik op **Submit new issue** om het issue op te slaan. 
   
 [1]: https://github.com/BROprogramma/geotechnischsondeeronderzoek/issues
+[2]: https://github.com/BROprogramma/booronderzoek
 [4]: https://github.com/join
 [5]: https://www.broinfo.nl/sites/www.broinfo.nl/files/BROinfo_Catalogus-Geotechnisch-sondeeronderzoek_20160323.pdf
 [6]: https://github.com/BROprogramma/grondwatermonitoringput
