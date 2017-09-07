@@ -5,9 +5,8 @@ var respecConfig = {
   publishDate: "2016-03-23",
   editors: [
     {
-      name: "Linda van den Brink",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl",
+      name: "TNO Geologische Dienst Nederland",
+      url: "https://www.tno.nl/nl/",
     },
   ],
   shortName: "bro-cpt",
