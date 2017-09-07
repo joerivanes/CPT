@@ -1,4 +1,4 @@
-# geotechnischsondeeronderzoek
+# Geotechnischsondeeronderzoek (Cone penetration test/CPT)
 Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek.
 
 # Consultatie toelichting: how to
