@@ -1,4 +1,4 @@
-# Geotechnischsondeeronderzoek (Cone penetration test/CPT)
+# [Geotechnischsondeeronderzoek (Cone penetration test/CPT)](https://broprogramma.github.io/CPT/)
 Repository voor open consultatie van de BRO gegevenscatalogus Geotechnisch Sondeeronderzoek.
 
 # Consultatie toelichting: how to
